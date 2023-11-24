@@ -1,0 +1,35 @@
+ h1, h2 {
+    text-align: center;
+  }
+
+  body {
+    background-image: url(table.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .form {
+    text-align: center;
+  }
+
+  .top {
+    background-color: burlywood;
+    margin-right: auto;
+    margin-left: auto;
+    width: 45%;
+  }
+
+  .meal, .price {
+    display: inline-block;
+  }
+
+  .meal {
+    width: 80%;
+    max-width: 500px;
+    text-align: left;
+  }
+
+  .price {
+    width: 15%;
+    text-align: right;
+  }
